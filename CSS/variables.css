@@ -1,3 +1,12 @@
-:root {
-    --color-principal: #e6e6e6;
+:root{
+    --color-primary: #e58f00;
+    --color-secundary: #17171e;
+    --color-ternario: #323239;
+    --color-font: #fff;
+    --fuente-titulo: Roboto Slab, serif;
+    --color-container4:#17171ebb; 
+    --color-boton:#c58010;
 }
+
+/* Fuente Click Aqui : https://fonts.google.com/specimen/Roboto+Slab?preview.text=Contact%20Us%20For&query=%5BAachen */
+/* Iconos Click Aqui: https://boxicons.com/ */
